@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcelo Nuacapoma</h1>
+<h1 align="center">Hi 👋, I'm Marcelo Naucapoma</h1>
 <h3 align="center">A passionate System Engineer from Peru</h3>
 
 - 🔭 I’m currently working on **eveloping a website to showcase my developed programs and technical skills acquired during my career as an engineer.**
