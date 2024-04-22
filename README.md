@@ -1,1 +1,2 @@
 # About-me
+I am a Systems Engineering graduate, passionate about technology and committed to continuous learning. My focus is to expand my professional experiences and knowledge, seeing each challenge as an opportunity for professional growth. I am driven by problem solving and the search for innovative solutions. With a proactive mindset and positive attitude, I am prepared to face new challenges and contribute significantly in any work environment. 
